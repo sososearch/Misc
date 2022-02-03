@@ -1,3 +1,5 @@
+#Creating folder structures
+
 import os
 base_path = "C:\\Users\\1"
 dir_basename = "_"
